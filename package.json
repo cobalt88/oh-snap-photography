@@ -1,0 +1,24 @@
+{
+  "name": "oh-snap-photography",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cobalt88/oh-snap-photography.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cobalt88/oh-snap-photography/issues"
+  },
+  "homepage": "https://github.com/cobalt88/oh-snap-photography#readme",
+  "dependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
