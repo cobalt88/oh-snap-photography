@@ -1,5 +1,5 @@
-.history
-.DS_Store
-.env
-package-lock.json
+.history,
+.DS_Store,
+.env,
+package-lock.json,
 node_modules
